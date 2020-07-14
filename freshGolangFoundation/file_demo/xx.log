@@ -1,0 +1,7 @@
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_demo/main.go:57: 这是自定义的logger记录的日志。
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_demo/main.go:57: 这是自定义的logger记录的日志。
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_demo/main.go:57: 这是自定义的logger记录的日志。
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_demo/main.go:57: 这是自定义的logger记录的日志。
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_\tdemo/main.go:57: 这是自定义的logger记录的日志。
+2020/06/08 17:37:20.890762 C:/WORK/dev_go/src/t01/log_demo/main.go:57: 这是自定义的logger记录的日志。
+a b c
